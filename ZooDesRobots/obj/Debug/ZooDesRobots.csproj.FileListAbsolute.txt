@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ZooDesRobots\bin\Debug\ZooDesRobots.exe.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ZooDesRobots\bin\Debug\ZooDesRobots.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ZooDesRobots\bin\Debug\ZooDesRobots.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ZooDesRobots\obj\Debug\ZooDesRobots.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ZooDesRobots\obj\Debug\ZooDesRobots.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ZooDesRobots\obj\Debug\ZooDesRobots.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ZooDesRobots\obj\Debug\ZooDesRobots.pdb

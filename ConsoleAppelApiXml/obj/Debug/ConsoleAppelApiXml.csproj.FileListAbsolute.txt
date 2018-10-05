@@ -1,0 +1,10 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\bin\Debug\ConsoleAppelApiXml.exe.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\bin\Debug\ConsoleAppelApiXml.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\bin\Debug\ConsoleAppelApiXml.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\obj\Debug\ConsoleAppelApiXml.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\obj\Debug\ConsoleAppelApiXml.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\obj\Debug\ConsoleAppelApiXml.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\obj\Debug\ConsoleAppelApiXml.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\ConsoleAppelApiXml\obj\Debug\ConsoleAppelApiXml.csproj.CopyComplete

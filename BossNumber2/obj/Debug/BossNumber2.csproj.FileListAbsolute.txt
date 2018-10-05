@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossNumber2\bin\Debug\BossNumber2.exe.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossNumber2\bin\Debug\BossNumber2.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossNumber2\bin\Debug\BossNumber2.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossNumber2\obj\Debug\BossNumber2.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossNumber2\obj\Debug\BossNumber2.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossNumber2\obj\Debug\BossNumber2.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossNumber2\obj\Debug\BossNumber2.pdb

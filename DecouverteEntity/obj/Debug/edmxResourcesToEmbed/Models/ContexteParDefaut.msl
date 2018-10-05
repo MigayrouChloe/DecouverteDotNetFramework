@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="JeuDroidesModelStoreContainer" CdmEntityContainer="JeuDroidesEntities">
+    <EntitySetMapping Name="Droide">
+      <EntityTypeMapping TypeName="JeuDroidesModel.Droide">
+        <MappingFragment StoreEntitySet="Droide">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Matricule" ColumnName="Matricule" />
+          <ScalarProperty Name="DateCreation" ColumnName="DateCreation" />
+          <ScalarProperty Name="DateDerniereMiseAJour" ColumnName="DateDerniereMiseAJour" />
+          <ScalarProperty Name="EquipeCombatId" ColumnName="EquipeCombatId" />
+          <ScalarProperty Name="VaisseauId" ColumnName="VaisseauId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EquipeCombat">
+      <EntityTypeMapping TypeName="JeuDroidesModel.EquipeCombat">
+        <MappingFragment StoreEntitySet="EquipeCombat">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="DateCreation" ColumnName="DateCreation" />
+          <ScalarProperty Name="DateDerniereMiseAJour" ColumnName="DateDerniereMiseAJour" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Paragraphe">
+      <EntityTypeMapping TypeName="JeuDroidesModel.Paragraphe">
+        <MappingFragment StoreEntitySet="Paragraphe">
+          <ScalarProperty Name="Titre" ColumnName="Toto" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Contenu" ColumnName="Contenu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Question">
+      <EntityTypeMapping TypeName="JeuDroidesModel.Question">
+        <MappingFragment StoreEntitySet="Question">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Texte" ColumnName="Texte" />
+          <ScalarProperty Name="ParagrapheId" ColumnName="ParagrapheId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reponse">
+      <EntityTypeMapping TypeName="JeuDroidesModel.Reponse">
+        <MappingFragment StoreEntitySet="Reponse">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Texte" ColumnName="Texte" />
+          <ScalarProperty Name="QuestionId" ColumnName="QuestionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Wookie">
+      <EntityTypeMapping TypeName="JeuDroidesModel.Wookie">
+        <MappingFragment StoreEntitySet="Wookie">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

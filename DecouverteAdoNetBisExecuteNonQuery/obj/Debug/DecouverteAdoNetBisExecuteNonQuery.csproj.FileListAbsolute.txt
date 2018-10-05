@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNetBisExecuteNonQuery\bin\Debug\DecouverteAdoNetBisExecuteNonQuery.exe.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNetBisExecuteNonQuery\bin\Debug\DecouverteAdoNetBisExecuteNonQuery.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNetBisExecuteNonQuery\bin\Debug\DecouverteAdoNetBisExecuteNonQuery.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNetBisExecuteNonQuery\obj\Debug\DecouverteAdoNetBisExecuteNonQuery.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNetBisExecuteNonQuery\obj\Debug\DecouverteAdoNetBisExecuteNonQuery.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNetBisExecuteNonQuery\obj\Debug\DecouverteAdoNetBisExecuteNonQuery.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNetBisExecuteNonQuery\obj\Debug\DecouverteAdoNetBisExecuteNonQuery.pdb

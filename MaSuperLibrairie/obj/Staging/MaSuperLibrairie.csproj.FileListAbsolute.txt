@@ -1,0 +1,13 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\MaSuperLibrairie.dll.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\MaSuperLibrairie.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\MaSuperLibrairie.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\EntityFramework.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\EntityFramework.SqlServer.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\EntityFramework.xml
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\EntityFramework.SqlServer.xml
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\fr\EntityFramework.resources.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\bin\Staging\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\obj\Staging\MaSuperLibrairie.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\obj\Staging\MaSuperLibrairie.csproj.CopyComplete
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\obj\Staging\MaSuperLibrairie.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MaSuperLibrairie\obj\Staging\MaSuperLibrairie.pdb

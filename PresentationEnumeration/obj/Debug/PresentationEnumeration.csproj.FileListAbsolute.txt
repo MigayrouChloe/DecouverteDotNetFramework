@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\PresentationEnumeration\bin\Debug\PresentationEnumeration.exe.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\PresentationEnumeration\bin\Debug\PresentationEnumeration.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\PresentationEnumeration\bin\Debug\PresentationEnumeration.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\PresentationEnumeration\obj\Debug\PresentationEnumeration.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\PresentationEnumeration\obj\Debug\PresentationEnumeration.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\PresentationEnumeration\obj\Debug\PresentationEnumeration.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\PresentationEnumeration\obj\Debug\PresentationEnumeration.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MesOperationsArithmetiques\obj\Debug\MesOperationsArithmetiques.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MesOperationsArithmetiques\bin\Debug\MesOperationsArithmetiques.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MesOperationsArithmetiques\bin\Debug\MesOperationsArithmetiques.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MesOperationsArithmetiques\obj\Debug\MesOperationsArithmetiques.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\MesOperationsArithmetiques\obj\Debug\MesOperationsArithmetiques.pdb

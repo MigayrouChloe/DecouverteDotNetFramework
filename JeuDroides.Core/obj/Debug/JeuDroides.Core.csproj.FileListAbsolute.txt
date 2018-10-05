@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\obj\Debug\JeuDroides.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\bin\Debug\JeuDroides.Core.dll.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\bin\Debug\JeuDroides.Core.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\bin\Debug\JeuDroides.Core.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\obj\Debug\JeuDroides.Core.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\obj\Debug\JeuDroides.Core.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\obj\Debug\JeuDroides.Core.csprojAssemblyReference.cache

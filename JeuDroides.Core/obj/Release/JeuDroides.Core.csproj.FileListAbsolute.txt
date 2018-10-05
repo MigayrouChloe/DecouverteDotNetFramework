@@ -1,0 +1,6 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\bin\Release\JeuDroides.Core.dll.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\bin\Release\JeuDroides.Core.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\bin\Release\JeuDroides.Core.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\obj\Release\JeuDroides.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\obj\Release\JeuDroides.Core.dll
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Core\obj\Release\JeuDroides.Core.pdb

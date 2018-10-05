@@ -1,0 +1,39 @@
+﻿@*Ce n'est pas coté client.*@
+
+
+@{
+    ViewBag.Title = "Index";
+    ViewBag.Heur = DateTime.Now;
+}
+
+
+Affichage de l'heure version 1 : <br />  <br />
+ViewBag.Heur déclarée dans la vue  : @ViewBag.Heur <br />
+ViewBag.Heure déclarée dans le controlleur : @ViewBag.Heure <br />
+
+
+
+Affichage de l'heure version 2 :<br />  <br />
+@DateTime.Now <br />
+
+
+Affichage de l'heure version 3 : <br />  <br />
+@{
+    var valeur = DateTime.Now;
+    valeur = valeur.AddDays(1);
+
+    int value1 = 5;
+}
+
+
+@valeur
+
+<br />
+Test de l'ajout de valeurs  : @value1  + 5
+@(value1 + 5)
+
+<br />
+
+Affichage de ma valeur : @ViewBag.test <br/>
+
+Le nombre de droide présent dans la table droide est : @ViewBag.NombreDroide

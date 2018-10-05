@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Affichage des noms de l'équipe de droide constituée des droides dont le nom commence par M</h2>
+
+
+
+@foreach (var item in ViewBag.monEquipe.ListeDroide)
+{
+    <li> @item.Nom </li>
+}
+
+

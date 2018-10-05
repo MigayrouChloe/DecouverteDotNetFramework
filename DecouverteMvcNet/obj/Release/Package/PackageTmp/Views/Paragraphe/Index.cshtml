@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Affichage d'un paragraph";
+}
+
+@*<h2>Premiere version </h2>
+
+    <p>
+        @ViewBag.ContenuParagraphe
+    </p>
+    <p>
+        @ViewBag.ContenuReponse
+    </p>
+    <ul>
+        @foreach (var reponse in ViewBag.ListeReponses)
+        {
+            <li>@reponse</li>
+        }
+    </ul>*@
+
+<h2>Deuxieme version </h2>
+
+@ViewBag.monParagraphe.Contenu <br />
+@ViewBag.monParagraphe.MaQuestion.Contenu
+@foreach (var item in ViewBag.monParagraphe.MaQuestion.MesReponses)
+{
+    <li> @item.Contenu </li>
+}
+
+
+
+@using (Html.BeginForm())
+{
+    <input type="text" id="testinput" name="testinput" />
+
+}

@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNet\bin\Debug\DecouverteAdoNet.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNet\bin\Debug\DecouverteAdoNet.exe.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNet\obj\Debug\DecouverteAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNet\obj\Debug\DecouverteAdoNet.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNet\obj\Debug\DecouverteAdoNet.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNet\obj\Debug\DecouverteAdoNet.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\DecouverteAdoNet\bin\Debug\DecouverteAdoNet.pdb

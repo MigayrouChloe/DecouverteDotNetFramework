@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Console.UI\bin\Debug\JeuDroides.Console.UI.exe.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Console.UI\bin\Debug\JeuDroides.Console.UI.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Console.UI\bin\Debug\JeuDroides.Console.UI.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Console.UI\obj\Debug\JeuDroides.Console.UI.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Console.UI\obj\Debug\JeuDroides.Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Console.UI\obj\Debug\JeuDroides.Console.UI.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\JeuDroides.Console.UI\obj\Debug\JeuDroides.Console.UI.pdb

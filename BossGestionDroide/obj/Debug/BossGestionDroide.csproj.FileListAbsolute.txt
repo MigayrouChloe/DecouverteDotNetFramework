@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossGestionDroide\bin\Debug\BossGestionDroide.exe.config
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossGestionDroide\bin\Debug\BossGestionDroide.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossGestionDroide\bin\Debug\BossGestionDroide.pdb
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossGestionDroide\obj\Debug\BossGestionDroide.csprojAssemblyReference.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossGestionDroide\obj\Debug\BossGestionDroide.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossGestionDroide\obj\Debug\BossGestionDroide.exe
+C:\Users\Administrateur\Documents\VS_Projet\JeuDroides\BossGestionDroide\obj\Debug\BossGestionDroide.pdb

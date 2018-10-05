@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="JeuDroidesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Paragraphe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Decimal" Precision="18" Scale="0" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Numero" Type="Int32" Nullable="false" />
+    <Property Name="Contenu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Question" Relationship="JeuDroidesModel.FK_Question_Paragraphe" FromRole="Paragraphe" ToRole="Question" />
+  </EntityType>
+  <EntityContainer Name="JeuDroidesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Paragraphe" EntityType="Self.Paragraphe" />
+    <EntitySet Name="Question" EntityType="JeuDroidesModel.Question" />
+    <EntitySet Name="Reponse" EntityType="JeuDroidesModel.Reponse" />
+    <AssociationSet Name="FK_Question_Paragraphe" Association="JeuDroidesModel.FK_Question_Paragraphe">
+      <End Role="Paragraphe" EntitySet="Paragraphe" />
+      <End Role="Question" EntitySet="Question" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reponse_Question" Association="JeuDroidesModel.FK_Reponse_Question">
+      <End Role="Question" EntitySet="Question" />
+      <End Role="Reponse" EntitySet="Reponse" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Question">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Decimal" Nullable="false" Precision="18" Scale="0" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Texte" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ParagrapheId" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="Paragraphe" Relationship="JeuDroidesModel.FK_Question_Paragraphe" FromRole="Question" ToRole="Paragraphe" />
+    <NavigationProperty Name="Reponse" Relationship="JeuDroidesModel.FK_Reponse_Question" FromRole="Question" ToRole="Reponse" />
+  </EntityType>
+  <EntityType Name="Reponse">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Decimal" Nullable="false" Precision="18" Scale="0" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Texte" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="QuestionId" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <NavigationProperty Name="Question" Relationship="JeuDroidesModel.FK_Reponse_Question" FromRole="Reponse" ToRole="Question" />
+  </EntityType>
+  <Association Name="FK_Question_Paragraphe">
+    <End Type="JeuDroidesModel.Paragraphe" Role="Paragraphe" Multiplicity="0..1" />
+    <End Type="JeuDroidesModel.Question" Role="Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Paragraphe">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Question">
+        <PropertyRef Name="ParagrapheId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reponse_Question">
+    <End Type="JeuDroidesModel.Question" Role="Question" Multiplicity="1" />
+    <End Type="JeuDroidesModel.Reponse" Role="Reponse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Question">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reponse">
+        <PropertyRef Name="QuestionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
